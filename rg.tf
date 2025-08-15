@@ -1,3 +1,3 @@
 provider "kalyan" {
-  
+ tags = "kalyan" 
 }
